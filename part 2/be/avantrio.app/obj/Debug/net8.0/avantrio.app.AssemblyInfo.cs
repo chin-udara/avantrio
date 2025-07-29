@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("avantrio.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00e78b169747f7924b4f7982ca4b7d8290549b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8139ef3aea58d1d2f8ebff43b5f020121cb80188")]
 [assembly: System.Reflection.AssemblyProductAttribute("avantrio.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("avantrio.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
