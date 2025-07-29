@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "K56gw66EJNG48GEd8S9Qr59uVM6uYX3ln7YgF4GWrl4=",
+  "Source": "avantrio.api",
+  "BasePath": "_content/avantrio.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

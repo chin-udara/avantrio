@@ -1,0 +1,16 @@
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/bin/Debug/net8.0/avantrio.app.deps.json
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/bin/Debug/net8.0/avantrio.app.dll
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/bin/Debug/net8.0/avantrio.app.pdb
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.GeneratedMSBuildEditorConfig.editorconfig
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.AssemblyInfoInputs.cache
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.AssemblyInfo.cs
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.csproj.CoreCompileInputs.cache
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.sourcelink.json
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.dll
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/refint/avantrio.app.dll
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.pdb
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/ref/avantrio.app.dll
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/bin/Debug/net8.0/avantrio.domain.dll
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/bin/Debug/net8.0/avantrio.domain.pdb
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.csproj.AssemblyReference.cache
+/home/udara/Interviews/Avantrio/part 2/be/avantrio.app/obj/Debug/net8.0/avantrio.app.csproj.CopyComplete

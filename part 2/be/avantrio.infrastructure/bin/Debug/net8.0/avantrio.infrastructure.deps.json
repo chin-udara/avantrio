@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "avantrio.infrastructure/1.0.0": {
+        "dependencies": {
+          "avantrio.app": "1.0.0",
+          "avantrio.domain": "1.0.0"
+        },
+        "runtime": {
+          "avantrio.infrastructure.dll": {}
+        }
+      },
+      "avantrio.app/1.0.0": {
+        "dependencies": {
+          "avantrio.domain": "1.0.0"
+        },
+        "runtime": {
+          "avantrio.app.dll": {}
+        }
+      },
+      "avantrio.domain/1.0.0": {
+        "runtime": {
+          "avantrio.domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "avantrio.infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "avantrio.app/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "avantrio.domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
